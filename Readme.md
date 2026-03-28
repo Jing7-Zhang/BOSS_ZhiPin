@@ -23,7 +23,7 @@
    <img width="1860" height="915" alt="image" src="https://github.com/user-attachments/assets/20967363-734f-43fb-9d85-f27362f7b17f" />
    但是我们发现这个信息不全，还是要拿到详情，于是找到 `https://www.zhipin.com/wapi/zpgeek/job/detail.json` 发现后面的url不就是 `joblist.json?_=1774707166498` 里面的 `securityId`么？后面的参数是固定的，再加上数字（第几个职位，从1计数）和时间戳就好了。
    【eg：&lid=4RMd4t2pCwV.search.1&_=1774707166887
-          &lid=4RMd4t2pCwV.search.29&_=1774709590350 】
+          &lid=4RMd4t2pCwV.search.2&_=1774709590350 】
    <img width="1860" height="915" alt="image" src="https://github.com/user-attachments/assets/1ce95f17-ac76-4698-9ca0-cc6a73246c06" />
 
 
