@@ -19,7 +19,7 @@
 
    ---
 
-3. 发现每滚动一次就是十四个职位更新
+3. 发现每滚动一次就是15个职位更新
    <img width="1860" height="915" alt="image" src="https://github.com/user-attachments/assets/20967363-734f-43fb-9d85-f27362f7b17f" />
 
 
